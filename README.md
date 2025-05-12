@@ -36,6 +36,9 @@ LLM本地部署服务未授权访问扫描工具是一款专为检测大语言�
 
 ### 主要功能
 
+![image-1](https://github.com/user-attachments/assets/53e61bbf-bfde-4be4-9c81-e2a3b772da72)
+![image-2](https://github.com/user-attachments/assets/cc421b72-13c4-4377-8d6e-ad3b2b8930b6)
+
 - **端口扫描**：自动发现本地运行的LLM服务，快速定位可能存在的服务端口。
 - **漏洞检测**：针对已知的LLM服务漏洞进行检测，涵盖多种常见的安全问题。
 - **详细报告**：生成详细的扫描报告，包括发现的漏洞、风险等级、修复建议等，帮助用户全面了解安全状况。
